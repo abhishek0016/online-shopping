@@ -1,13 +1,14 @@
-<div class="container footer">
+    <div class="container footer">
 
-		<hr>
+        <hr>
 
-		<footer>
-			<div class="row">
-				<div class="col-lg-12">
-					<p>Created for test purpose only</p>
-				</div>
-			</div>
-		</footer>
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Designed and Developed By Abhishek shukla</p>
+                </div>
+            </div>
+        </footer>
 
-	</div>
+    </div>
