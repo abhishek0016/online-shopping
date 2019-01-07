@@ -14,6 +14,7 @@ import com.abhi.shoppingbackend.dao.UserDAO;
 import com.abhi.shoppingbackend.dto.Cart;
 import com.abhi.shoppingbackend.dto.User;
 
+@SuppressWarnings("unused")
 @ControllerAdvice
 public class GlobalController {
 	

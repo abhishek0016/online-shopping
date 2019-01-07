@@ -21,6 +21,7 @@ public class CartLineTestCase {
 	
 	
 	private static CartLineDAO cartLineDAO;
+	@SuppressWarnings("unused")
 	private static ProductDAO productDAO;
 	private static UserDAO userDAO;
 	

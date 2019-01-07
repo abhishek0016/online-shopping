@@ -15,6 +15,7 @@ import com.abhi.shoppingbackend.dto.Cart;
 import com.abhi.shoppingbackend.dto.CartLine;
 import com.abhi.shoppingbackend.dto.Product;
 
+@SuppressWarnings("unused")
 @Service("cartService")
 public class CartService {
 

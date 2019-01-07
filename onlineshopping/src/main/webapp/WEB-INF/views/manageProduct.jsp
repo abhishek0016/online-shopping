@@ -88,7 +88,7 @@
 									<br/>			
 									<sf:hidden path="id"/>
 									<sf:hidden path="code"/>
-									<sf:hidden path="supplierId"/>
+									<%-- <sf:hidden path="supplierId" value="38"/> --%>
 									<sf:hidden path="active"/>														
 									<button type="button" class="btn btn-warning btn-xs" data-toggle="modal" data-target="#myCategoryModal">Add New Category</button>
 								</div>							

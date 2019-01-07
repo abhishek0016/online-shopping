@@ -17,6 +17,7 @@ public class ProductTestCase {
 	private static ProductDAO productDAO;
 	
 	
+	@SuppressWarnings("unused")
 	private Product product;
 	
 	

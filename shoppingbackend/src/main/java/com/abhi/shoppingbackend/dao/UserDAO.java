@@ -6,6 +6,7 @@ import com.abhi.shoppingbackend.dto.Address;
 import com.abhi.shoppingbackend.dto.Cart;
 import com.abhi.shoppingbackend.dto.User;
 
+@SuppressWarnings("unused")
 public interface UserDAO {
 
 	// user related operation

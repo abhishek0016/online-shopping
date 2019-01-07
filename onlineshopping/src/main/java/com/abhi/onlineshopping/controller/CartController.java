@@ -15,6 +15,7 @@ import com.abhi.onlineshopping.service.CartService;
 @RequestMapping("/cart")
 public class CartController {
 
+	@SuppressWarnings("unused")
 	private final static Logger logger = LoggerFactory.getLogger(CartController.class);
 	
 	@Autowired

@@ -24,6 +24,7 @@ import com.abhi.shoppingbackend.dao.ProductDAO;
 import com.abhi.shoppingbackend.dto.Category;
 import com.abhi.shoppingbackend.dto.Product;
 
+@SuppressWarnings("unused")
 @Controller
 public class PageController {
 	

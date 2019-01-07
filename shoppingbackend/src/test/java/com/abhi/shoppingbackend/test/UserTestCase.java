@@ -11,9 +11,13 @@ import com.abhi.shoppingbackend.dto.User;
 public class UserTestCase {
 
 	private static AnnotationConfigApplicationContext context;
+	@SuppressWarnings("unused")
 	private static UserDAO userDAO;
+	@SuppressWarnings("unused")
 	private User user = null;
+	@SuppressWarnings("unused")
 	private Cart cart = null;
+	@SuppressWarnings("unused")
 	private Address address = null;
 	
 	

@@ -28,6 +28,7 @@ import com.abhi.shoppingbackend.dto.User;
 @Component
 public class CheckoutHandler {
 
+	@SuppressWarnings("unused")
 	private static final Logger logger = LoggerFactory.getLogger(CheckoutHandler.class);
 	
 	@Autowired
